@@ -1,0 +1,2 @@
+Insert a new file at the begining.
+This is a file created to test diff.
