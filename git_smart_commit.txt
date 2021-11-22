@@ -1,1 +1,2 @@
+Add one line to test commit from branch f1_dev.
 This is a file to test if the commit message indicate the issue in JIRA will be autormatically added to the specified JIRA issue.
