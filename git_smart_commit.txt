@@ -1,3 +1,4 @@
+Test the close parameter.
 Add both time and comment.
 Add time in the commit message.
 This is a file created to test the smart commit.
